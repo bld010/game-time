@@ -1,6 +1,6 @@
 # Game Time
 
-##### Our Game Time project is a 80s Saved By the Bell-themed Family Feud in which a player is given a survey from a dataset of 15 surveys along with their most popualar responses. There are two rounds before two additional "Fast Money Rounds," where each player has 30 seconds to earn as many points as possible!
+##### Our Game Time project is a 90s Saved By the Bell-themed Family Feud in which a player is given a survey from a dataset of 15 surveys along with their most popular responses. There are two rounds before two additional "Fast Money Rounds," where each player has 30 seconds to earn as many points as possible.
 
 ### Learning Goals
 
